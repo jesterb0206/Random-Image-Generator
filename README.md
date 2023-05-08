@@ -15,11 +15,11 @@
 
 <br>
 
-![Random Image Generator]()
+![Random Image Generator](images/random-image-generator.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Random-Image-Generator/)
 
 <br>
 
